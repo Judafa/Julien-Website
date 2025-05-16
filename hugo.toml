@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://judafa.github.io/Julien-Website/'
 languageCode = 'en-us'
 title = 'Juliens Website'
 theme = 'ananke'
+[params]
+  subtitle = 'A widget'
+  [params.contact]
+  email = 'judafa@protonmail.com'
+ 

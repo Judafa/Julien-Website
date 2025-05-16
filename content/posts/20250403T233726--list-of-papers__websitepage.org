@@ -1,0 +1,17 @@
+#+title:      list of papers
+#+date:       [2025-04-03 Do 23:37]
+#+filetags:   :websitepage:
+#+identifier: 20250403T233726
+
+
+- Dependency-Aware Online Caching\\
+  https://ieeexplore.ieee.org/abstract/document/10621422
+
+
+- Learning Minimum Linear Arrangement of Cliques and Lines\\
+  https://ieeexplore.ieee.org/abstract/document/10631019
+
+
+- Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocols\\
+  https://arxiv.org/pdf/2505.02785
+
