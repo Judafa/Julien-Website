@@ -3,15 +3,16 @@
 #+filetags:   :websitepage:
 #+identifier: 20250403T233726
 
-
-- Dependency-Aware Online Caching\\
-  https://ieeexplore.ieee.org/abstract/document/10621422
-
+- Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocols\\
+  *PODC* 2025\\
+  https://arxiv.org/pdf/2505.02785
 
 - Learning Minimum Linear Arrangement of Cliques and Lines\\
+  *ICDCS* 2024\\
   https://ieeexplore.ieee.org/abstract/document/10631019
 
+- Dependency-Aware Online Caching\\
+  *INFOCOM* 2024\\
+  https://ieeexplore.ieee.org/abstract/document/10621422
 
-- Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocols\\
-  https://arxiv.org/pdf/2505.02785
 
