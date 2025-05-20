@@ -3,16 +3,17 @@
 #+filetags:   :websitepage:
 #+identifier: 20250403T233726
 
-- Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocols\\
-  *PODC* 2025\\
-  https://arxiv.org/pdf/2505.02785
+- [[https://arxiv.org/pdf/2505.02785][ Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocol]]\\
+  Tom-Lukas Breitkopf, Julien Dallot, Antoine El-Hayek, and Stefan Schmid.\\
+  ACM Symposium on Principles of Distributed Computing (*PODC*), Huatulco, Mexico, June 2025.\\
 
-- Learning Minimum Linear Arrangement of Cliques and Lines\\
-  *ICDCS* 2024\\
-  https://ieeexplore.ieee.org/abstract/document/10631019
+- [[https://ieeexplore.ieee.org/abstract/document/10631019][Learning Minimum Linear Arrangement of Cliques and Lines]]\\
+  Julien Dallot, Maciej Pacut, Marcin Bienkowski, Darya Melnyk, Stefan Schmidk\
+  International Conference on Distributed Computing Systems (*ICDCS*), New Jersey, USA, July 2024.\\
 
-- Dependency-Aware Online Caching\\
-  *INFOCOM* 2024\\
-  https://ieeexplore.ieee.org/abstract/document/10621422
+- [[https://ieeexplore.ieee.org/abstract/document/10621422][Dependency-Aware Online Caching]]\\
+  Julien Dallot, Amirmehdi Jafari Fesharaki, Maciej Pacut, Stefan Schmid\\
+  IEEE International Conference on Computer Communications (*INFOCOM*), Vancouver, Canada, May 2024.\\
+  
 
 
