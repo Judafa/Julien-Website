@@ -1,7 +1,7 @@
 baseURL = 'https://judafa.github.io/Julien-Website/'
 languageCode = 'en-us'
-title = 'Juliens Website'
-theme = 'ananke'
+title = 'Julien Dallot'
+theme = 'paper'
 [params]
   subtitle = 'A widget'
   [params.contact]
