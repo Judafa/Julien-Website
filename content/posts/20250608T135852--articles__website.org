@@ -2,6 +2,7 @@
 #+date:       [2025-06-08 So 13:58]
 #+filetags:   :website:
 #+identifier: 20250608T135852
+#+featured: true
 
 
 * Articles
@@ -17,3 +18,10 @@
 - [[https://ieeexplore.ieee.org/abstract/document/10621422][Dependency-Aware Online Caching]]\\
   Julien Dallot, Amirmehdi Jafari Fesharaki, Maciej Pacut, Stefan Schmid\\
   IEEE International Conference on Computer Communications (*INFOCOM*), Vancouver, Canada, May 2024.
+
+
+
+* Events I participated in
+- Workshop on Learning-Augmented Algorithms (LATA) at Sigmetrics 2025\\
+  I gave a 45 minutes talk on Infused Advice, 
+  https://youtu.be/u4DlAAVqF58?si=p8EmZw-B9ZMWlF4k

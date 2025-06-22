@@ -2,6 +2,14 @@ baseURL = 'https://judafa.github.io/Julien-Website/'
 languageCode = 'en-us'
 title = 'Julien Dallot'
 theme = 'ananke'
+
+[menu]
+  [menu.main]
+    - papers
+      url = papers/
+      weight = 2
+
+
 [params]
   subtitle = 'A widget'
   [params.contact]
