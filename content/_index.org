@@ -1,13 +1,10 @@
-#+title:      Julien Dallot
-#+date:       [2025-04-03 Do 23:37]
-#+filetags:   :websitepage:
-#+identifier: 20250403T233726
-
-I am Julien Dallot, I am a PhD Student at Inet under the supervision of Stefan Schmid in the TU Berlin since 2022.
-I'm interested in how online algorithms that do not know the future can use predictions to improve their performances, especially when the predictions are unreliable or malicious.
-
-you can contact me with my mail: judafa@protonmail.com
-
-  
+#+title:      Title page
+#+date:       [2025-06-08 So 13:58]
+#+filetags:   :website:
+#+tags[]: research
+#+identifier: 20250608T135852
+#+featured: true
 
 
+
+hello

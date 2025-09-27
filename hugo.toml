@@ -1,17 +1,7 @@
-baseURL = 'https://judafa.github.io/Julien-Website/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Julien Dallot'
-theme = 'ananke'
-
-[menu]
-  [menu.main]
-    - papers
-      url = papers/
-      weight = 2
+title = "Julien's Website"
 
 
-[params]
-  subtitle = 'A widget'
-  [params.contact]
-  email = 'judafa@protonmail.com'
- 
+
+theme = 'lugo'
