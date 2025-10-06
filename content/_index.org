@@ -1,4 +1,4 @@
-#+title:      Title page
+#+title: Julien's blog
 #+date:       [2025-06-08 So 13:58]
 #+filetags:   :website:
 #+tags[]: research
@@ -7,4 +7,33 @@
 
 
 
-hello
+
+#+ATTR_HTML: :width 40% :height 40% :class border-2 :alt me :title Some photo of me :center t
+[[/Photo_Julien_Dallot.png]]
+
+
+I'm Julien Dallot, I'm doing my PhD about online algorithms with predictions under the supervision of Pr. Stefan Schmid at the TU Berlin.
+
+
+* Articles
+
+- [[https://arxiv.org/pdf/2505.02785][Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocol]]\\
+  Tom-Lukas Breitkopf, Julien Dallot, Antoine El-Hayek, and Stefan Schmid.\\
+  ACM Symposium on Principles of Distributed Computing (*PODC*), Huatulco, Mexico, June 2025.
+
+- [[https://ieeexplore.ieee.org/abstract/document/10631019][Learning Minimum Linear Arrangement of Cliques and Lines]]\\
+  Julien Dallot, Maciej Pacut, Marcin Bienkowski, Darya Melnyk, Stefan Schmid\\
+  International Conference on Distributed Computing Systems (*ICDCS*), New Jersey, USA, July 2024.
+
+- [[https://ieeexplore.ieee.org/abstract/document/10621422][Dependency-Aware Online Caching]]\\
+  Julien Dallot, Amirmehdi Jafari Fesharaki, Maciej Pacut, Stefan Schmid\\
+  IEEE International Conference on Computer Communications (*INFOCOM*), Vancouver, Canada, May 2024.
+
+
+
+* Events I participated in
+- Workshop on Learning-Augmented Algorithms (LATA)\\
+  Sigmetrics 2025, Stony Brook, New York, USA, June 2025\\
+  I gave a 45 minutes talk on Infused Advice their, here is the video: https://youtu.be/u4DlAAVqF58?si=p8EmZw-B9ZMWlF4k
+- Seminar on Game Theory (ADFOCS 2024)\\
+  Max Planck Institut Saarbrücken, Germany, August 2024\\

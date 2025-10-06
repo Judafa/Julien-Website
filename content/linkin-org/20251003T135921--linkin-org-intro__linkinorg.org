@@ -1,0 +1,10 @@
+#+title:      linkin-org-intro
+#+date:       [2025-10-03 Fr 13:59]
+#+filetags:   :linkinorg:
+#+identifier: 20251003T135921
+
+
+I think I know why people do not organize their data like this.
+This is because this method is *fundamentally unreliable*.
+Say you have a note with a few links that redirect to some data.
+
