@@ -14,7 +14,7 @@
 
 - [[https://arxiv.org/html/2511.06514v1][The Harmonic Policy for Online Buffer Sharing is (2 + ln n)-Competitive: A Simple Proof]]\\
   Vamsi Addanki, Julien Dallot, Leon Kellerhals, Maciej Pacut, Stefan Schmid\\
-  SIAM Symposium on Simplicity in Algorithms (*SOSA26*), Vancouver, Canada, January 2026.
+  SIAM Symposium on Simplicity in Algorithms (*SOSA*), Vancouver, Canada, January 2026.
 
 - [[https://arxiv.org/pdf/2505.02785][Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocol]]\\
   Tom-Lukas Breitkopf, Julien Dallot, Antoine El-Hayek, and Stefan Schmid.\\
