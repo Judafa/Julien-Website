@@ -15,4 +15,7 @@
     <span class="section-label">Personal</span>
   </a>
 </nav>
+{{ with .Site.GetPage "section" "research" }}
+  {{ range .Pages }}{{ .Content }}{{ end }}
+{{ end }}
 {{ end }}
