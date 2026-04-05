@@ -33,6 +33,6 @@
 * Events I participated in
 - Workshop on Learning-Augmented Algorithms (LATA)\\
   Sigmetrics 2025, Stony Brook, New York, USA, June 2025\\
-  I gave a 45 minutes talk on Infused Advice their, here is the video: https://youtu.be/u4DlAAVqF58?si=p8EmZw-B9ZMWlF4k
+  I gave a talk on Infused Advice (see the [[https://youtu.be/u4DlAAVqF58?si=p8EmZw-B9ZMWlF4k][recording]])
 - Seminar on Game Theory (ADFOCS 2024)\\
   Max Planck Institut Saarbrücken, Germany, August 2024\\
