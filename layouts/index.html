@@ -16,6 +16,6 @@
   </a>
 </nav>
 {{ with .Site.GetPage "section" "research" }}
-  {{ range .Pages }}{{ .Content }}{{ end }}
+  {{ range where .Pages "Slug" "articles" }}{{ .Content }}{{ end }}
 {{ end }}
 {{ end }}
