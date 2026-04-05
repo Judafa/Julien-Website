@@ -177,6 +177,108 @@ footer a:hover {
 	color: var(--text);
 }
 
+/* ── Nav bar ─────────────────────────────────────────────────── */
+nav ul {
+	display: flex;
+	align-items: center;
+	gap: 0;
+	padding: 0.75rem 0;
+	margin: 0;
+	list-style: none;
+	border-bottom: 1px solid var(--border);
+	margin-bottom: 1.5rem;
+}
+
+nav ul li {
+	display: flex;
+	align-items: center;
+}
+
+/* slash separator before every item except the first */
+nav ul li:not(:first-child)::before {
+	content: '/';
+	color: var(--border);
+	padding: 0 0.25rem;
+	font-size: 0.95rem;
+	user-select: none;
+}
+
+nav a {
+	color: var(--muted);
+	font-size: 0.9rem;
+	padding: 0.3em 0.5em;
+	border-radius: 6px;
+	text-decoration: none;
+	transition: color 0.15s;
+}
+
+nav a:hover,
+nav a.menuactive {
+	color: var(--text);
+	text-decoration: none;
+}
+
+/* Julien's Blog always blue and bold, overrides everything */
+nav ul li:first-child a,
+nav a[href="/"] {
+	color: var(--accent) !important;
+	font-weight: 700;
+	font-size: 0.95rem;
+}
+
+/* ── Section cards (homepage) ────────────────────────────────── */
+.sections-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 1.25rem;
+	margin: 2rem 0;
+}
+
+.section-card {
+	display: flex;
+	flex-direction: column;
+	border-radius: var(--radius);
+	overflow: hidden;
+	border: 1px solid var(--border);
+	background: var(--surface);
+	text-decoration: none;
+	color: var(--text);
+	transition: border-color 0.2s, transform 0.15s;
+}
+
+.section-card:hover {
+	border-color: var(--accent);
+	transform: translateY(-3px);
+	text-decoration: none;
+}
+
+.section-thumb {
+	height: 90px;
+}
+
+.research-thumb {
+	background: linear-gradient(135deg, #1a3a5c 0%, #0d47a1 100%);
+}
+
+.projects-thumb {
+	background: linear-gradient(135deg, #1a3a2a 0%, #1b5e20 100%);
+}
+
+.personal-thumb {
+	background: linear-gradient(135deg, #3a1a3a 0%, #6a1b9a 100%);
+}
+
+.section-label {
+	padding: 0.75rem 1rem;
+	font-weight: 600;
+	font-size: 0.95rem;
+	letter-spacing: 0.02em;
+}
+
+@media (max-width: 500px) {
+	.sections-grid { grid-template-columns: 1fr; }
+}
+
 /* ── Scrollbar ───────────────────────────────────────────────── */
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: var(--bg); }

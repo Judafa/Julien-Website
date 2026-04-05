@@ -1,7 +1,25 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Julien's Website"
-
-
-
 theme = 'lugo'
+
+[params]
+  showrss = true
+
+[menu]
+  [[menu.main]]
+    name = "Julien's Blog"
+    url  = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url  = "/research/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url  = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "Personal"
+    url  = "/personal/"
+    weight = 4

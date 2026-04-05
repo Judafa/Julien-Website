@@ -1,16 +1,16 @@
-#+title:      articles
+#+title: Articles
 #+date:       [2025-06-08 So 13:58]
 #+filetags:   :website:
 #+tags[]: research
 #+identifier: 20250608T135852
-#+featured: true
-
-
-#+ATTR_HTML: :width 40% :height 40% :class border-2 :alt Description of the image :title Some photo of me
-[[/Photo_Julien_Dallot.png]]
-
+#+slug: articles
 
 * Articles
+
+
+- [[https://arxiv.org/pdf/2602.20706][Online Algorithms with Unreliable Guidance]]\\
+  Julien Dallot, Yuval Emek, Yuval Gil, Maciej Pacut, Stefan Schmid
+  # SIAM Symposium on Simplicity in Algorithms (*SOSA*), Vancouver, Canada, January 2026.
 
 - [[https://arxiv.org/html/2511.06514v1][The Harmonic Policy for Online Buffer Sharing is (2 + ln n)-Competitive: A Simple Proof]]\\
   Vamsi Addanki, Julien Dallot, Leon Kellerhals, Maciej Pacut, Stefan Schmid\\
@@ -36,4 +36,3 @@
   I gave a 45 minutes talk on Infused Advice their, here is the video: https://youtu.be/u4DlAAVqF58?si=p8EmZw-B9ZMWlF4k
 - Seminar on Game Theory (ADFOCS 2024)\\
   Max Planck Institut Saarbrücken, Germany, August 2024\\
-
