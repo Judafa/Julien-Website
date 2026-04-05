@@ -4,6 +4,6 @@
 #+identifier: 20250608T135852
 
 #+ATTR_HTML: :width 40% :height 40% :class border-2 :alt me :title Some photo of me :center t
-[[/Photo_Julien_Dallot.png]]
+[[Photo_Julien_Dallot.png]]
 
 I'm Julien Dallot, I'm doing my PhD about online algorithms with predictions under the supervision of Pr. Stefan Schmid at the TU Berlin.

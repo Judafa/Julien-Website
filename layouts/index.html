@@ -2,15 +2,15 @@
 {{ define "main" }}
 {{ .Content }}
 <nav class="sections-grid">
-  <a href="/research/" class="section-card">
+  <a href="{{ "research/" | relURL }}" class="section-card">
     <div class="section-thumb research-thumb"></div>
     <span class="section-label">Research</span>
   </a>
-  <a href="/projects/" class="section-card">
+  <a href="{{ "projects/" | relURL }}" class="section-card">
     <div class="section-thumb projects-thumb"></div>
     <span class="section-label">Projects</span>
   </a>
-  <a href="/personal/" class="section-card">
+  <a href="{{ "personal/" | relURL }}" class="section-card">
     <div class="section-thumb personal-thumb"></div>
     <span class="section-label">Personal</span>
   </a>
