@@ -7,12 +7,23 @@
 
 * Articles
 
+- Ranking Opinions with Few States in Population Protocols
+  Tom Breitkopf, Julien Dallot, Antoine El-Hayek, Stefan Schmid
+  ACM Symposium on Principles of Distributed Computing (*PODC*), Egham, England, July 2026
+
+- [[https://arxiv.org/pdf/2604.08205][Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items]]
+  Marcin Bienkowski, Julien Dallot, Dominik Danelski, Maciej Pacut, Stefan Schmid
+  International Conference on Distributed Computing Systems (*ICDCS*), Seoul, South Korea, June 2026
+
+- Online Graph Embedding in Star Graphs
+  Julien Dallot, Darya Melnyk, Maciej Pacut, Stefan Schmid
+  International Conference on Distributed Computing Systems (*ICDCS*), Seoul, South Korea, June 2026
 
 - [[https://arxiv.org/pdf/2602.20706][Online Algorithms with Unreliable Guidance]]
   Julien Dallot, Yuval Emek, Yuval Gil, Maciej Pacut, Stefan Schmid
   # SIAM Symposium on Simplicity in Algorithms (*SOSA*), Vancouver, Canada, January 2026.
 
-- [[https://arxiv.org/html/2511.06514v1][The Harmonic Policy for Online Buffer Sharing is (2 + ln n)-Competitive: A Simple Proof]]
+- [[https://arxiv.org/pdf/2511.06514v1][The Harmonic Policy for Online Buffer Sharing is (2 + ln n)-Competitive: A Simple Proof]]
   Vamsi Addanki, Julien Dallot, Leon Kellerhals, Maciej Pacut, Stefan Schmid\\
   SIAM Symposium on Simplicity in Algorithms (*SOSA*), Vancouver, Canada, January 2026.
 
