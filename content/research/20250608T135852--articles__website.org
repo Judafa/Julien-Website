@@ -15,7 +15,7 @@
   Marcin Bienkowski, Julien Dallot, Dominik Danelski, Maciej Pacut, Stefan Schmid\\
   International Conference on Distributed Computing Systems (*ICDCS*), Seoul, South Korea, June 2026
 
-- Online Graph Embedding in Star Graphs\\
+- *Online Graph Embedding in Star Graphs*\\
   Julien Dallot, Darya Melnyk, Maciej Pacut, Stefan Schmid\\
   International Conference on Distributed Computing Systems (*ICDCS*), Seoul, South Korea, June 2026
 
