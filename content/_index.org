@@ -6,6 +6,6 @@
 #+ATTR_HTML: :width 40% :height 40% :class border-2 :alt me :title Some photo of me :center t
 [[Photo_Julien_Dallot.png]]
 
-Hey! I'm Julien Dallot, I'm a PhD student under the supervision of Pr Stefan Schmid at the TU Berlin
+Hey! I'm Julien Dallot, I'm a PhD student under the supervision of Pr Stefan Schmid at the TU Berlin.
 My main object of interest are online algorithms with predictions.
 I'm also working on standard online algorithms and population protocols.
