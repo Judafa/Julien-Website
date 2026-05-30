@@ -257,7 +257,8 @@ nav a[href="/"] {
 }
 
 .research-thumb {
-	background: linear-gradient(135deg, #1a3a5c 0%, #0d47a1 100%);
+	background: linear-gradient(rgba(13,71,161,0.35), rgba(13,71,161,0.35)),
+	            url('/research-thumb.jpg') 70% center/cover no-repeat;
 }
 
 .projects-thumb {
