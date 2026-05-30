@@ -3,6 +3,5 @@
 *.xml
 *.html
 !layouts/**/*.html
-/public/
 /resources/
 .hugo_build.lock
