@@ -5,7 +5,7 @@
 #+identifier: 20250608T135852
 #+slug: articles
 
-* Articles
+* Papers
 
 - [[https://arxiv.org/pdf/2605.18707][Ranking Opinions with Few States in Population Protocols]]
   Tom Breitkopf, Julien Dallot, Antoine El-Hayek, Stefan Schmid\\
@@ -21,15 +21,10 @@
 
 - [[https://arxiv.org/pdf/2602.20706][Online Algorithms with Unreliable Guidance]]
   Julien Dallot, Yuval Emek, Yuval Gil, Maciej Pacut, Stefan Schmid
-  # SIAM Symposium on Simplicity in Algorithms (*SOSA*), Vancouver, Canada, January 2026.
 
 - [[https://arxiv.org/pdf/2511.06514v1][The Harmonic Policy for Online Buffer Sharing is (2 + ln n)-Competitive: A Simple Proof]]
   Vamsi Addanki, Julien Dallot, Leon Kellerhals, Maciej Pacut, Stefan Schmid\\
   SIAM Symposium on Simplicity in Algorithms (*SOSA*), Vancouver, Canada, January 2026.
-
-- [[https://arxiv.org/pdf/2505.02785][Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocol]]
-  Tom-Lukas Breitkopf, Julien Dallot, Antoine El-Hayek, and Stefan Schmid.\\
-  ACM Symposium on Principles of Distributed Computing (*PODC*), Huatulco, Mexico, June 2025.
 
 - [[https://ieeexplore.ieee.org/abstract/document/10631019][Learning Minimum Linear Arrangement of Cliques and Lines]]
   Julien Dallot, Maciej Pacut, Marcin Bienkowski, Darya Melnyk, Stefan Schmid\\
@@ -39,5 +34,11 @@
   Julien Dallot, Amirmehdi Jafari Fesharaki, Maciej Pacut, Stefan Schmid\\
   IEEE International Conference on Computer Communications (*INFOCOM*), Vancouver, Canada, May 2024.
 
+
+* Short Papers
+- [[https://arxiv.org/pdf/2505.02785][Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocol]]
+  Tom-Lukas Breitkopf, Julien Dallot, Antoine El-Hayek, and Stefan Schmid.\\
+  ACM Symposium on Principles of Distributed Computing (*PODC*), Huatulco, Mexico, June 2025.\\
+  (Short version of "Ranking Opinions with Few States in Population Protocols")
 
 
