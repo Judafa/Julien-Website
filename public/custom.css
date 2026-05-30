@@ -258,7 +258,7 @@ nav a[href="/"] {
 
 .research-thumb {
 	background: linear-gradient(rgba(13,71,161,0.35), rgba(13,71,161,0.35)),
-	            url('/research-thumb.jpg') 0px center/150% no-repeat;
+	            url('research-thumb.jpg') 70% center/cover no-repeat;
 }
 
 .projects-thumb {
