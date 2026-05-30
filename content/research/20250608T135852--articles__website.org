@@ -7,7 +7,7 @@
 
 * Articles
 
-- *Ranking Opinions with Few States in Population Protocols*\\
+- [[https://arxiv.org/pdf/2605.18707][Ranking Opinions with Few States in Population Protocols]]\\
   Tom Breitkopf, Julien Dallot, Antoine El-Hayek, Stefan Schmid\\
   ACM Symposium on Principles of Distributed Computing (*PODC*), Egham, England, July 2026
 
@@ -15,7 +15,7 @@
   Marcin Bienkowski, Julien Dallot, Dominik Danelski, Maciej Pacut, Stefan Schmid\\
   International Conference on Distributed Computing Systems (*ICDCS*), Seoul, South Korea, June 2026
 
-- *Online Graph Embedding in Star Graphs*\\
+- Online Graph Embedding in Star Graphs\\
   Julien Dallot, Darya Melnyk, Maciej Pacut, Stefan Schmid\\
   International Conference on Distributed Computing Systems (*ICDCS*), Seoul, South Korea, June 2026
 
