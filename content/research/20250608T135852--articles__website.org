@@ -6,6 +6,11 @@
 #+slug: articles
 
 * Papers
+
+# - [[https://arxiv.org/pdf/2602.20706][Online Algorithms with Unreliable Guidance]]
+#   Julien Dallot, Yuval Emek, Yuval Gil, Maciej Pacut, Stefan Schmid
+
+
 - [[https://arxiv.org/pdf/2605.19452v1][Resilient Byzantine Agreement with Predictions]]
   Julien Dallot, Darya Melnyk, Tijana Milentijevic, Stefan Schmid, Patrik Welters\\
   Neural Information Processing Systems (*NeurIPS*), Sydney, Australia, December 2026
@@ -21,9 +26,6 @@
 - [[https://arxiv.org/pdf/2605.17051][Online Graph Embedding in Star Graphs]]
   Julien Dallot, Darya Melnyk, Maciej Pacut, Stefan Schmid\\
   International Conference on Distributed Computing Systems (*ICDCS*), Seoul, South Korea, June 2026
-
-- [[https://arxiv.org/pdf/2602.20706][Online Algorithms with Unreliable Guidance]]
-  Julien Dallot, Yuval Emek, Yuval Gil, Maciej Pacut, Stefan Schmid
 
 - [[https://arxiv.org/pdf/2511.06514v1][The Harmonic Policy for Online Buffer Sharing is (2 + ln n)-Competitive: A Simple Proof]]
   Vamsi Addanki, Julien Dallot, Leon Kellerhals, Maciej Pacut, Stefan Schmid\\
