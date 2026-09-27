@@ -6,6 +6,9 @@
 #+slug: articles
 
 * Papers
+- [[https://arxiv.org/pdf/2605.19452v1][Resilient Byzantine Agreement with Predictions]]
+  Julien Dallot, Darya Melnyk, Tijana Milentijevic, Stefan Schmid, Patrik Welters\\
+  Neural Information Processing Systems (*NeurIPS*), Sydney, Australia, December 2026
 
 - [[https://arxiv.org/pdf/2605.18707][Ranking Opinions with Few States in Population Protocols]]
   Tom Breitkopf, Julien Dallot, Antoine El-Hayek, Stefan Schmid\\
